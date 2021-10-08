@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T04:43:38.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="6SG9sxtxPRpD6a1NSDKt" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T04:57:40.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="LQ7e1c4HaydIDyUBZ_Th" version="15.4.3" type="github">
   <diagram id="ft-S6p3YyGh-OVdkdaEB" name="Page-1">
     <mxGraphModel dx="1645" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -57,7 +57,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-eSvkUpTJXsJWPYgSSkQ-3" value="&lt;span style=&quot;font-size: 12px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Заведение&lt;br&gt;потоков данных заказчика для анализа в&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;ZIIOT&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="-eSvkUpTJXsJWPYgSSkQ-3" value="&lt;span style=&quot;font-size: 12px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Добавление&lt;br&gt;потоков данных заказчика для анализа в&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;ZIIOT&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="192" y="320" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-eSvkUpTJXsJWPYgSSkQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="-eSvkUpTJXsJWPYgSSkQ-4" target="-eSvkUpTJXsJWPYgSSkQ-26" edge="1">
@@ -249,6 +249,60 @@
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-36" value="Сервис получения данных с внешних источников" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
           <mxGeometry x="528" y="817" width="154" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-46" target="pyCePIQXS791oF1L_SRT-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-46" value="Заказчик" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="880" y="560" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-47" target="pyCePIQXS791oF1L_SRT-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-47" target="pyCePIQXS791oF1L_SRT-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="660" />
+              <mxPoint x="1199" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-47" target="pyCePIQXS791oF1L_SRT-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1255" y="660" />
+              <mxPoint x="1414" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-47" value="Команда ML" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="1058" y="560" width="262" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-48" target="pyCePIQXS791oF1L_SRT-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="660" />
+              <mxPoint x="1450" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-48" target="pyCePIQXS791oF1L_SRT-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-48" value="Продуктовая команда" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="1339" y="560" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-49" value="Разработка модели" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="1159" y="680" width="161" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-51" value="Разработка интерфейса" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="680" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-52" value="Понимание данных&lt;br&gt;через анализ" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="953" y="680" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-53" value="Построение DatFlow" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="1329" y="680" width="170" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
