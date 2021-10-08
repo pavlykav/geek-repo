@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T04:26:53.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="OM0AAsZQ-7HIrEuDHOZE" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T04:29:25.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="5Bu-YEIjzt-LyUhlKMDJ" version="15.4.3" type="github">
   <diagram id="ft-S6p3YyGh-OVdkdaEB" name="Page-1">
     <mxGraphModel dx="1405" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pyCePIQXS791oF1L_SRT-15" value="Хранение данных" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="12" y="1390" width="538" height="100" as="geometry" />
+          <mxGeometry x="32" y="1150" width="538" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-14" value="Model repository" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="600" y="960" width="216" height="100" as="geometry" />
+          <mxGeometry x="600" y="960" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-13" target="pyCePIQXS791oF1L_SRT-19">
           <mxGeometry relative="1" as="geometry" />
@@ -186,34 +186,40 @@
           <mxGeometry x="1351.55" y="35" width="40.45" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-1" value="Сервис&amp;nbsp; конфигурирования" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="390" y="820" width="150" height="50" as="geometry" />
+          <mxGeometry x="220" y="830" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-2" value="Сервис пользователя" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="42" y="820" width="150" height="50" as="geometry" />
+          <mxGeometry x="42" y="830" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-9" value="Сервис хранения данных" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="18" y="1419" width="150" height="50" as="geometry" />
+          <mxGeometry x="38" y="1179" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-12" value="Сервис работы с моделями" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
           <mxGeometry x="610" y="991" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-16" value="Сервис работы с моделями" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="198" y="1419" width="150" height="50" as="geometry" />
+          <mxGeometry x="218" y="1179" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-19" target="pyCePIQXS791oF1L_SRT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pyCePIQXS791oF1L_SRT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pyCePIQXS791oF1L_SRT-19" target="pyCePIQXS791oF1L_SRT-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-19" value="Сбор данных" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="32" y="960" width="498" height="100" as="geometry" />
+          <mxGeometry x="32" y="960" width="508" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-20" value="Сервис получения исторических данных TSDS" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="38" y="989" width="150" height="61" as="geometry" />
+          <mxGeometry x="43" y="989" width="150" height="61" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-21" value="Сервис препроцессинга данных" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="202" y="989" width="150" height="61" as="geometry" />
+          <mxGeometry x="207" y="989" width="150" height="61" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-22" value="Сервис получения данных с сервиса событий" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="362" y="989" width="150" height="61" as="geometry" />
+          <mxGeometry x="371" y="989" width="154" height="61" as="geometry" />
         </mxCell>
         <mxCell id="pyCePIQXS791oF1L_SRT-23" value="Объектная модель" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;align=center;verticalAlign=top;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="850" y="960" width="259" height="100" as="geometry" />
+          <mxGeometry x="813" y="1200" width="259" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
